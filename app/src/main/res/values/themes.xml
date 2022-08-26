@@ -44,8 +44,11 @@
         <item name="fontFamily">@font/bebasNeueRegular</item>
         <item name="android:textSize">36sp</item>
         <item name="android:textColor">@android:color/white</item>
-
-
+    </style>
+ <style name="LabelText">
+        <item name="fontFamily">@font/bebasNeueRegular</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/primary_light</item>
     </style>
 
 
